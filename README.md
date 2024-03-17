@@ -1,6 +1,6 @@
 # LWC-Multi-Org-Data-Communication-and-Sharing-Records
 
-**I have engineered an organization-to-organization (org-to-org) integration framework facilitating seamless data exchange through REST API integration. This communication is orchestrated through the following components:**
+**I have developed an organization-to-organization (org-to-org) integration framework facilitating seamless data exchange through REST API integration. This communication is orchestrated through the following components:**
 
 **1. Integration Components:** These components feature Lightning Web Components (LWC) equipped with picklists to select object types (including both standard and custom objects), alongside buttons for object selection. Additionally, a multi-select picklist is provided to choose fields for display on object records.
 
